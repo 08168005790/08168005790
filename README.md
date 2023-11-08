@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100" />
 </div>
 
+<div align="center">
   Hey there 👋
 </div>
 
