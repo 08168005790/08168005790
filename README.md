@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  ### Hi there 👋
+  Hey there 👋
 </div>
 
 <!--
