@@ -15,9 +15,11 @@
   Hey there 👋
 </div>
 
-<!--
-**08168005790/08168005790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif", width="600" height="300" />
+</div>
 
+-----------
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,4 +30,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
